@@ -1,0 +1,3 @@
+ps2exe .\Documents\CENAR\Veritele\ot16v2.2.ps1 ot16v22.exe -credentialGUI -iconFile bubu.ico -title 'Verificacao de Tele-Trabalho CENAR ver. 2.2' -noError -requireAdmin
+
+ps2exe .\Documents\magnet.ps1 magnet.exe -iconfile magnet2.ico -noConsole -noOutput -noError -exitOnCancel
